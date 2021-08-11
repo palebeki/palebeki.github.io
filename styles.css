@@ -1,0 +1,127 @@
+html,
+
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  font-family: "Lato";
+  color: #303223;
+  overflow: hidden;
+}
+
+
+
+@media only screen and (max-width: 320px) {
+  body{
+    font-size: xx-large;
+  }
+}
+.example {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  font-size: large;
+  top: 52%;
+  font-family: lato;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.example2 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  top: 52%;
+  font-size: 75%;
+  font-family: lato;
+
+}
+@media only screen and (max-width: 768px) {
+  .example {
+    font-size: 130%;
+    top: 55%;
+  }
+  .example2 {
+    font-size: 80%;
+    top: 55%;
+  }
+}
+/* Credits: https://tobiasahlin.com/spinkit/ */
+div.pulse-wrapper {
+  position: relative;
+  top: 37%;
+  justify-content: center;
+  transform: translate3d(-50%, 50%, 0);
+}
+
+div.pulse:nth-child(2) {
+  animation-delay: -0.5s;
+  
+}
+
+div.pulse {
+  position: absolute;
+  top: 20%;
+  left: calc(100% - 25px);
+  height: 50px;
+  width: 50px;
+  background-color: rgb(199, 153, 8);
+  border-radius: 50%;
+
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  40% {
+    transform: scale(1.1);
+    box-shadow: 0 0 0 20px rgba(199, 153, 8, 0.3);
+  }
+
+  80% {
+    transform: scale(1);
+    box-shadow: 0 0 0 40px rgba(199, 153, 8, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(199, 153, 8, 0);
+  }
+}
+
+
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  margin: 100px auto;
+  background-color: #232d32;
+
+  border-radius: 100%;
+  -webkit-animation: sk-scaleout 1s infinite ease-in-out;
+  animation: sk-scaleout 0.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes sk-scaleout {
+  0% {
+    -webkit-transform: scale(0);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    opacity: 0;
+  }
+}
+
+@keyframes sk-scaleout {
+  0% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
