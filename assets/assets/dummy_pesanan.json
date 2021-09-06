@@ -1,0 +1,26 @@
+[
+    {
+        "barang" : "Cimory Yoghurt Drink Strawberry 250Ml",
+        "harga" : 9000,
+        "jumlah" : 2,
+        "status" : "waiting"
+    },
+    {
+        "barang" : "Indomaret Malkist Crackers 125G",
+        "harga" : 5000,
+        "jumlah" : 1,
+        "status" : "approved"
+    },
+    {
+        "barang" : "Indomaret Pop Corn 200G",
+        "harga" : 5900,
+        "jumlah" : 1,
+        "status" : "declined"
+    },
+    {
+        "barang" : "Nabati Richoco Wafer Chocolate 132G",
+        "harga" : 7500,
+        "jumlah" : 1,
+        "status" : "okbutchanged"
+    }
+]

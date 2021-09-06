@@ -30,10 +30,14 @@
 </head>
 <body style="background-color: #d7d7d7;">
   
-  <script src="web/rantext.js" type="text/javascript">
-  </script>
+ 
   <div class="example">
-    <span id="random_text" class="" ></span>
+    <span id="random_text" class="" >
+      <script>var scriptTag = document.createElement("script");
+        scriptTag.src = "rantext.js";
+        scriptTag.type = "application/javascript";
+        document.body.append(scriptTag);</script>
+    </span>
   </div>
   <div class="pulse-wrapper">
     <div class="pulse"></div>
@@ -46,7 +50,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '2187391604';
+    var serviceWorkerVersion = '1088368929';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {

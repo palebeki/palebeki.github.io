@@ -1,0 +1,222 @@
+[
+  {
+    "IDE": 1,
+    "NPM": 1817101465,
+    "panggilan": "anton",
+    "Asrama": "a",
+    "Timestamp": "8/28/2021 8:13:32",
+    "NamaBarang": "Nextar Choco Brownies 8x13.3G",
+    "HargaSatuan": 8700,
+    "JumlahBarang": 2,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 2,
+    "NPM": 1817101466,
+    "panggilan": "wisnu",
+    "Asrama": "b",
+    "Timestamp": "8/28/2021 8:14:32",
+    "NamaBarang": "Khong Guan Crackers Cream 300G",
+    "HargaSatuan": 12600,
+    "JumlahBarang": 3,
+    "StatusBarang": "waiting"
+  },
+  {
+    "IDE": 3,
+    "NPM": 1817101467,
+    "panggilan": "budi",
+    "Asrama": "c",
+    "Timestamp": "8/28/2021 8:15:32",
+    "NamaBarang": "Sari Roti Roti Tawar Jumbo Special",
+    "HargaSatuan": 15500,
+    "JumlahBarang": 1,
+    "StatusBarang": "declined"
+  },
+  {
+    "IDE": 4,
+    "NPM": 1817101468,
+    "panggilan": "dendi",
+    "Asrama": "f",
+    "Timestamp": "8/28/2021 8:16:32",
+    "NamaBarang": "Kapal Api Kopi Bubuk Special Mix 10X24g",
+    "HargaSatuan": 13200,
+    "JumlahBarang": 1,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 5,
+    "NPM": 1817101465,
+    "panggilan": "anton",
+    "Asrama": "a",
+    "Timestamp": "8/28/2021 8:17:32",
+    "NamaBarang": "Khong Guan Chocolate Wafer Classic 350G",
+    "HargaSatuan": 19900,
+    "JumlahBarang": 1,
+    "StatusBarang": "okbutchanged"
+  },
+  {
+    "IDE": 6,
+    "NPM": 1817101466,
+    "panggilan": "wisnu",
+    "Asrama": "b",
+    "Timestamp": "8/28/2021 8:18:32",
+    "NamaBarang": "Khong Guan Crackers Cream 300G",
+    "HargaSatuan": 12600,
+    "JumlahBarang": 1,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 7,
+    "NPM": 1817101467,
+    "panggilan": "budi",
+    "Asrama": "c",
+    "Timestamp": "8/28/2021 8:19:32",
+    "NamaBarang": "Sedaap Mie Instant Goreng 83G Cup",
+    "HargaSatuan": 4700,
+    "JumlahBarang": 2,
+    "StatusBarang": "waiting"
+  },
+  {
+    "IDE": 8,
+    "NPM": 1817101468,
+    "panggilan": "dendi",
+    "Asrama": "f",
+    "Timestamp": "8/28/2021 8:20:32",
+    "NamaBarang": "Doritos Snack Roasted Corn 160G",
+    "HargaSatuan": 10400,
+    "JumlahBarang": 1,
+    "StatusBarang": "declined"
+  },
+  {
+    "IDE": 9,
+    "NPM": 1817101465,
+    "panggilan": "anton",
+    "Asrama": "a",
+    "Timestamp": "8/28/2021 8:21:32",
+    "NamaBarang": "Indomaret Wafer Stick 550G",
+    "HargaSatuan": 24900,
+    "JumlahBarang": 2,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 10,
+    "NPM": 1817101466,
+    "panggilan": "wisnu",
+    "Asrama": "b",
+    "Timestamp": "8/28/2021 8:22:32",
+    "NamaBarang": "Nissin Biscuit Gabin 140G",
+    "HargaSatuan": 6300,
+    "JumlahBarang": 1,
+    "StatusBarang": "okbutchanged"
+  },
+  {
+    "IDE": 11,
+    "NPM": 1817101467,
+    "panggilan": "budi",
+    "Asrama": "c",
+    "Timestamp": "8/28/2021 8:23:32",
+    "NamaBarang": "Kraft Sandwich Oreo Peanut Butter & Chocolate Cream 137G",
+    "HargaSatuan": 8100,
+    "JumlahBarang": 1,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 12,
+    "NPM": 1817101468,
+    "panggilan": "dendi",
+    "Asrama": "f",
+    "Timestamp": "8/28/2021 8:24:32",
+    "NamaBarang": "Kraft Sandwich Ritz Cheese 118G",
+    "HargaSatuan": 8700,
+    "JumlahBarang": 1,
+    "StatusBarang": "waiting"
+  },
+  {
+    "IDE": 13,
+    "NPM": 1817101465,
+    "panggilan": "anton",
+    "Asrama": "a",
+    "Timestamp": "8/28/2021 8:25:32",
+    "NamaBarang": "Roma Biscuit Sari Gandum Sandwich Peanut Butter 115G",
+    "HargaSatuan": 8000,
+    "JumlahBarang": 1,
+    "StatusBarang": "declined"
+  },
+  {
+    "IDE": 14,
+    "NPM": 1817101466,
+    "panggilan": "wisnu",
+    "Asrama": "b",
+    "Timestamp": "8/28/2021 8:26:32",
+    "NamaBarang": "Roma Biscuit Kelapa 300G",
+    "HargaSatuan": 9700,
+    "JumlahBarang": 1,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 15,
+    "NPM": 1817101467,
+    "panggilan": "budi",
+    "Asrama": "c",
+    "Timestamp": "8/28/2021 8:27:32",
+    "NamaBarang": "Khong Guan Biscuit Mini Assorted 650G",
+    "HargaSatuan": 51000,
+    "JumlahBarang": 1,
+    "StatusBarang": "okbutchanged"
+  },
+  {
+    "IDE": 16,
+    "NPM": 1817101468,
+    "panggilan": "dendi",
+    "Asrama": "f",
+    "Timestamp": "8/28/2021 8:28:32",
+    "NamaBarang": "Indomaret Ufo Mi Goreng Ala Indonesia 88G (Cup)",
+    "HargaSatuan": 8000,
+    "JumlahBarang": 2,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 17,
+    "NPM": 1817101465,
+    "panggilan": "anton",
+    "Asrama": "a",
+    "Timestamp": "8/28/2021 8:29:32",
+    "NamaBarang": "Mr.Bread Roti Tawar 350G",
+    "HargaSatuan": 12500,
+    "JumlahBarang": 1,
+    "StatusBarang": "waiting"
+  },
+  {
+    "IDE": 18,
+    "NPM": 1817101466,
+    "panggilan": "wisnu",
+    "Asrama": "b",
+    "Timestamp": "8/28/2021 8:30:32",
+    "NamaBarang": "Zee Susu Bubuk Instant Swizz Chocolate 10X40g",
+    "HargaSatuan": 36200,
+    "JumlahBarang": 1,
+    "StatusBarang": "declined"
+  },
+  {
+    "IDE": 19,
+    "NPM": 1817101467,
+    "panggilan": "budi",
+    "Asrama": "c",
+    "Timestamp": "8/28/2021 8:31:32",
+    "NamaBarang": "Migelas Mie Instant Paket Keluarga Soto Ayam 6X28g",
+    "HargaSatuan": 5900,
+    "JumlahBarang": 2,
+    "StatusBarang": "approved"
+  },
+  {
+    "IDE": 20,
+    "NPM": 1817101468,
+    "panggilan": "dendi",
+    "Asrama": "f",
+    "Timestamp": "8/28/2021 8:32:32",
+    "NamaBarang": "Migelas Mie Instant Paket Keluarga Soto Ayam 6X28g",
+    "HargaSatuan": 5900,
+    "JumlahBarang": 1,
+    "StatusBarang": "waiting"
+  }
+]

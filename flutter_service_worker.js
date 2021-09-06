@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "21f8966dd9aef0ca590836d11343fcaf",
+  "assets/AssetManifest.json": "90eb12f59863bb241c5fa02c2075e2e5",
+"assets/assets/dummy_allpesanan.json": "6da9d194fb4165e33be19b9c57b94c57",
 "assets/assets/dummy_jdih.json": "e41bc617dc173c6a5c5c587f5ce8d886",
 "assets/assets/dummy_news.json": "c10b7d686b575ffe763d58dcb5a35349",
 "assets/assets/dummy_penelitian.json": "c091853a6ff11916fc5802d93d81f1dc",
+"assets/assets/dummy_pesanan.json": "310c43355c7f94fecc9b7574796d94f2",
 "assets/assets/dummy_wu.json": "2bd2d3715b62240ecb43c411fa7fac49",
-"assets/assets/pengumuman.json": "9911650db94f6bb613636ab2bbf495f7",
+"assets/assets/pengumuman.json": "0acb7991646eaf14b1151fa870151773",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/images/kortar.png": "2d45be29e17f27c8ba846c982be012f3",
@@ -18,7 +20,7 @@ const RESOURCES = {
 "assets/images/secretowlgrey.png": "103cfd406942eb68400848661a21bfa5",
 "assets/images/under.png": "3f9c521ce0078c6bb7ae643ffa5827bc",
 "assets/images/under2.png": "383f8d666da757239fb408b6f2afa34a",
-"assets/NOTICES": "0c869450bb1aad861ec334b64de5f261",
+"assets/NOTICES": "67849749af722e5eff2b7fbee74dff61",
 "assets/packages/cool_alert/assets/flare/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/packages/cool_alert/assets/flare/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
 "assets/packages/cool_alert/assets/flare/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
@@ -34,12 +36,12 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "bcdcfc56b6b033e9c5529febd53928e8",
-"/": "bcdcfc56b6b033e9c5529febd53928e8",
+"index.html": "b22228feb037e13c694f24c82ecffb98",
+"/": "b22228feb037e13c694f24c82ecffb98",
 "kortar64.png": "626537501e1a44351bd975b8bf224f4c",
-"main.dart.js": "3af9527a9e9d1b1b92a1e2d50ee3a646",
+"main.dart.js": "cc7bbac1939700826afddbfb7c1a0fc5",
 "manifest.json": "79f37e78c3771bc01f584492a3fd7fd4",
-"rantext.js": "5c3cfa5deaffab79831f6150e8768db6",
+"rantext.js": "ffb791cff752405d5cc68ed9aaed369e",
 "styles.css": "ea9c7ce9c2a725bb60c5bd0f69539f9b",
 "version.json": "b9d27f78c151d51c8a926c68e6855357"
 };
